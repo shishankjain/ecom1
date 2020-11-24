@@ -11,7 +11,7 @@
                             <div class="col-md-7 col-sm-7 col-xs-12 col-lg-6">
                                 <div class="slide">
                                     <div class="slider__inner">
-                                        <h2>Shop from local shops</h2>
+                                        <h2>Welcome to Apna Wala Bazaar</h2>
                                         <h1>GOease</h1>
                                         <div class="cr__btn">
                                             <a href="cart.html">Shop Now</a>
