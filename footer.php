@@ -34,9 +34,9 @@
                                 <div class="ft__inner">
                                     <ul class="ft__list">
                                         <li><a href="#">About us</a></li>
-                                        <li><a href="#">Privacy Policy</a></li>
-                                        <li><a href="#">Disclaimer</a></li>
-                                        <li><a href="cart.html">Careers</a></li>
+                                        <li><a href="privacypolicy.html">Privacy Policy</a></li>
+                                        <li><a href="disclaimer.html">Disclaimer</a></li>
+                                        <li><a href="careers.html">Careers</a></li>
                                         <li><a href="#">Donate</a></li>
                                         <li><a href="">Gifts</a></li>
                                     </ul>
