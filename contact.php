@@ -109,10 +109,10 @@ require('top.php');
                 // How zoomed in you want the map to start at (always required)
                 zoom: 12,
 
-                scrollwheel: false,
+                scrollwheel: true,
 
                 // The latitude and longitude to center the map (always required)
-                center: new google.maps.LatLng(23.7286, 90.3854), // New York
+                center: new google.maps.LatLng(27.176157,77.9098008), //AGRA
 
                 // How you would like to style the map. 
                 // This is where you would paste any style found on Snazzy Maps.

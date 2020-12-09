@@ -14,7 +14,7 @@
                                         <h2>Welcome to Apna Wala Bazaar</h2>
                                         <h1>GOease</h1>
                                         <div class="cr__btn">
-                                            <a href="cart.html">Shop Now</a>
+                                            <a href="cart.php">Shop Now</a>
                                         </div>
                                     </div>
                                 </div>
