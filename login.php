@@ -90,7 +90,7 @@ if(isset($_SESSION['USER_LOGIN']) && $_SESSION['USER_LOGIN']=='yes'){
 									</div>
 									<div class="single-contact-form">
 										<div class="contact-box name">
-											<input type="text" name="mobile" id="mobile" placeholder="Your Mobile*" style="width:100%">
+											<input type="text" maxlength="10" pattern="[6-9]{1}[0-9]{9}" title="Please enter exactly 10 digits" name="mobile" id="mobile" placeholder="Your Mobile*" style="width:100%">
 										</div>
 										<span class="field_error" id="mobile_error"></span>
 									</div>
