@@ -50,7 +50,7 @@
                                 <h2 class="title__line--2">Earn Money with us</h2>
                                 <div class="ft__inner">
                                     <ul class="ft__list">
-                                        <li><a href="contact.php">Sell On Amazon</a></li>
+                                        <li><a href="contact.php">Sell On GoEase</a></li>
                                         <li><a href="contact.php">Become an affiliate</a></li>
                                         <li><a href="contact.php">Advertise Your Products</a></li>
                                         <li><a href="profile.php">My account</a></li>
